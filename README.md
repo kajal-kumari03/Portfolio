@@ -20,14 +20,14 @@
 
 <h3 align="center">
     🔹
-    <a href="https://github.com/sartik0709/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
+    <a href="https://github.com/kajal-kumari03/Portfolio">Report Bug</a> &nbsp; &nbsp;
     🔹
     <a href="https://66d0266559fbfdb8bdc01994--eclectic-sprinkles-cfe0d8.netlify.app/">Request Feature</a>
 </h3>
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Sartik0709](https://github.com/sartik0709/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [kajal-kumari03](https://github.com/kajal-kumari03/Portfolio). Thanks!
 
 ## Built With
 
